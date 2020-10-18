@@ -1,0 +1,47 @@
+body {
+  background-color:black;
+}
+
+ a{
+	 color:#FF4500;
+	 font-family:"Courier New", Courier, monospace;
+ }
+ 
+.naslov{
+	color:gray;
+	font-family: "Courier New", Courier, monospace;
+	text-align: center;
+	margin:-2px;
+}
+
+.popis{
+	display:inline;
+	margin: 10px;
+}
+
+.opcenito{
+	color: gray;
+	font-family: "Courier New", Courier, monospace;
+	text-align: justify;
+	background-color: black;
+	margin:5px;
+	margin-right:50px;
+}
+
+.atmosfera{
+	color: gray;
+	font-family: "Courier New", Courier, monospace;
+	text-align: justify;
+	background-color: black;
+	margin:5px;
+	margin-right:50px;
+}
+
+.reljef{
+	color: gray;
+	font-family: "Courier New", Courier, monospace;
+	text-align: justify;
+	background-color: black;
+	margin:5px;
+	margin-right:50px;
+}
