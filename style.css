@@ -3,8 +3,12 @@ body {
 }
 
  a{
-	 color:#FF4500;
-	 font-family:"Courier New", Courier, monospace;
+	color:#FF4500;
+	font-family: "Courier New", Courier, monospace;
+ }
+ 
+ hr{
+	border: 1px solid #262626;
  }
  
 .naslov{
@@ -25,7 +29,6 @@ body {
 	text-align: justify;
 	background-color: black;
 	margin:5px;
-	margin-right:50px;
 }
 
 .atmosfera{
@@ -34,7 +37,6 @@ body {
 	text-align: justify;
 	background-color: black;
 	margin:5px;
-	margin-right:50px;
 }
 
 .reljef{
@@ -43,5 +45,4 @@ body {
 	text-align: justify;
 	background-color: black;
 	margin:5px;
-	margin-right:50px;
 }
